@@ -15,7 +15,7 @@ The crossover between design and programming has always been of interest to me, 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=bharati9900r&column=7"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=bharati9900&column=7"/>
   </a>
 </div>
 
@@ -25,7 +25,7 @@ Languages and Tools:
 
 ![](https://activity-graph.herokuapp.com/graph?username=bharati9900&theme=react-dark&area=true)
 <!--
-**bharati9900/bharati9900r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**bharati9900/bharati9900** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
